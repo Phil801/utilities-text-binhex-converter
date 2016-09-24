@@ -1,0 +1,1 @@
+C:\Dev\Phil\OpenSource\utilities\text\binhex-converter\binhex-converter\bin\Debug\binhex-converter.exe.config
